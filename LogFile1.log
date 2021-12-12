@@ -1,8 +1,20 @@
-ERROR:root:Bad input! Input = a
+ERROR:root:Error! Input: Нет. Need to be integer
+ValueError: invalid literal for int() with base 10: 'Нет'
+ERROR:root:Error! Input: -10. Need to be positive.
 NoneType: None
-ERROR:root:Bad input! Input = A
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
+ERROR:root:Bad input! Input = a
 NoneType: None
 ERROR:root:Bad input! Input = d
 NoneType: None
-ERROR:root:Bad input! Input = r
+ERROR:root:Bad input! Input = f
 NoneType: None
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
+INFO:root:Good input! Input = space
