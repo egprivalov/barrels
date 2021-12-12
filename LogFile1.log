@@ -1,0 +1,8 @@
+ERROR:root:Bad input! Input = a
+NoneType: None
+ERROR:root:Bad input! Input = A
+NoneType: None
+ERROR:root:Bad input! Input = d
+NoneType: None
+ERROR:root:Bad input! Input = r
+NoneType: None
