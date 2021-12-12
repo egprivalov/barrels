@@ -1,20 +1,18 @@
 ERROR:root:Error! Input: Нет. Need to be integer
+Traceback (most recent call last):
+  File "C:/Users/antons/PycharmProjects/Programms/barrels.py", line 35, in <module>
+    n = int(inp)
 ValueError: invalid literal for int() with base 10: 'Нет'
-ERROR:root:Error! Input: -10. Need to be positive.
+ERROR:root:Error! Input: -5. Need to be positive.
 NoneType: None
 INFO:root:Good input! Input = space
 INFO:root:Good input! Input = space
-ERROR:root:Bad input! Input = a
+ERROR:root:Bad input! Input = 3
 NoneType: None
-ERROR:root:Bad input! Input = d
+ERROR:root:Bad input! Input = Ф
 NoneType: None
-ERROR:root:Bad input! Input = f
+ERROR:root:Bad input! Input = а
 NoneType: None
-INFO:root:Good input! Input = space
-INFO:root:Good input! Input = space
-INFO:root:Good input! Input = space
-INFO:root:Good input! Input = space
-INFO:root:Good input! Input = space
 INFO:root:Good input! Input = space
 INFO:root:Good input! Input = space
 INFO:root:Good input! Input = space
